@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9uf0+kZL4YUNizETjPDyAIgDGNqB5sMyVJwOzjNbzMQ=",
+  "Source": "MinimalApiSqlSever",
+  "BasePath": "_content/MinimalApiSqlSever",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
